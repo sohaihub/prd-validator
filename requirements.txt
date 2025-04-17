@@ -1,0 +1,13 @@
+streamlit
+pandas
+google-generativeai
+nltk
+textblob
+matplotlib
+fpdf
+python-docx
+docx2txt
+PyPDF2
+pillow
+numpy
+xlsxwriter
